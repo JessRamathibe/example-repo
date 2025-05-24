@@ -1,1 +1,1 @@
-https://github.com/jessramathibe/example-repo
+https://github.com/JessRamathibe/example-repo.git
